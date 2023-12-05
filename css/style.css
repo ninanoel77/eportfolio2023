@@ -63,7 +63,7 @@ p {
 }
 
 a:hover, a:focus, a:active, a.active {
-    color: #fec503;
+    color: #330D33;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
